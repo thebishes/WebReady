@@ -97,10 +97,10 @@ const Home = () => {
       price: "£449",
       features: [
         { name: "6-page responsive website", included: true },
-        { name: "Turbo-charged hosting", included: true },
-        { name: "Internet domain purchase", included: true },
+        { name: "Fast hosting", included: true },
+        { name: "Internet domain name purchase UK", included: true },
         { name: "SSL security certificate", included: true },
-        { name: "Advanced search engine optimisation", included: true },
+        { name: "Advanced search engine optimisation & Customer interaction reporting", included: true },
         { name: "5 page edits per month or image additions", included: true },
         {
           name: "Subsequent year £749, includes £10 domain fee",

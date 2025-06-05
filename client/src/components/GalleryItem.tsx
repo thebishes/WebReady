@@ -51,12 +51,12 @@ const GalleryItem = ({
           </div>
         </div>
         
-        {/* Overlay view button */}
+        {/* Overlay view button 
         <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-500 z-20">
           <button className="bg-white/90 backdrop-blur-sm text-primary font-medium px-6 py-2 rounded-full shadow-lg transform translate-y-4 group-hover:translate-y-0 transition-transform duration-500">
             View Project
           </button>
-        </div>
+        </div>*/}
       </div>
     </div>
   );

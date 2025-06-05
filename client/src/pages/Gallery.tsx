@@ -29,7 +29,7 @@ const Gallery = () => {
       image:
         "https://images.unsplash.com/photo-1491897554428-130a60dd4757?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
       title: "Urban Threads Boutique",
-      description: "Fashion store with product showcase galary.",
+      description: "Fashion store with product showcase.",
       category: "Business",
       tags: ["Fashion"],
     },
@@ -165,7 +165,7 @@ const Gallery = () => {
           ))}
         </div>
 
-        {/* CTA Section */}
+        {/* Contact us Section */}
         <div className="mt-20 text-center bg-primary/5 rounded-2xl p-10 border border-primary/10 relative overflow-hidden">
           <div className="absolute -top-10 -right-10 w-40 h-40 bg-primary/10 rounded-full blur-2xl"></div>
           <div className="absolute -bottom-10 -left-10 w-40 h-40 bg-secondary/10 rounded-full blur-2xl"></div>

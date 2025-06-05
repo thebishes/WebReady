@@ -94,7 +94,7 @@ const Home = () => {
     {
       name: "PowerPro",
       description: "Supercharge your business presence with 2x the content",
-      price: "£749",
+      price: "£799",
       features: [
         { name: "6-page responsive website", included: true },
         { name: "Fast hosting", included: true },

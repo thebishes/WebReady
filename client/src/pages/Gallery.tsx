@@ -100,8 +100,7 @@ const Gallery = () => {
             <span className="absolute -bottom-2 left-0 w-full h-2 bg-accent/30 -rotate-1"></span>
           </h1>
           <p className="text-lg text-gray-600 mt-6 max-w-2xl mx-auto">
-            Take a look at some of our recent website projects that showcase our
-            design capabilities and creative solutions.
+            Take a look at some of our concept ideas to help you with your online business presence mindset.
           </p>
         </div>
 

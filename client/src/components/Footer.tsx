@@ -49,7 +49,7 @@ const Footer = () => {
               We create beautiful, functional websites with transparent pricing
               and reliable hosting. Get your business online with
               WebReady.Store.
-            </p>
+            </p>{*/
             <div className="flex space-x-4">
               <a
                 href="#"
@@ -79,7 +79,7 @@ const Footer = () => {
               >
                 <Linkedin className="h-5 w-5" />
               </a>
-            </div>
+            </div> */}
           </div>
 
           <div>

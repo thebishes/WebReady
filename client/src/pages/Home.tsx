@@ -67,7 +67,7 @@ const Home = () => {
         { name: "Basic search engine optimisation", included: true },
         { name: "Page edits charged at £20 per page", included: true },
         {
-          name: "Subsequent year £399, includes £10 domain fee",
+          name: "Subsequent years £399, includes £10 domain fee",
           included: true,
         },
       ],
@@ -76,16 +76,16 @@ const Home = () => {
     {
       name: "Starter plus",
       description: "Perfect for small businesses, one year, one price",
-      price: "£349",
+      price: "£549",
       features: [
         { name: "3-page responsive website creation", included: true },
-        { name: "Turbo-charged hosting", included: true },
-        { name: "Internet domain purchase", included: true },
+        { name: "Fast  hosting", included: true },
+        { name: "Internet domain name purchase UK", included: true },
         { name: "SSL security certificate", included: true },
         { name: "Basic search engine optimisation", included: true },
         { name: "2 page edits per month or image additions", included: true },
         {
-          name: "Subsequent year £259, includes £10 domain fee",
+          name: "Subsequent year £499, includes £10 domain fee",
           included: true,
         },
       ],

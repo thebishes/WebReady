@@ -58,11 +58,11 @@ const Home = () => {
     {
       name: "Starter",
       description: "Perfect for small businesses ready to shine online",
-      price: "£249",
+      price: "£449",
       features: [
         { name: "3-page responsive website creation", included: true },
-        { name: "Turbo-charged hosting", included: true },
-        { name: "Internet domain purchase", included: true },
+        { name: "Fast hosting", included: true },
+        { name: "Internet domain name purchase  UK", included: true },
         { name: "SSL security certificate", included: true },
         { name: "Basic search engine optimisation", included: true },
         { name: "Page edits charged at £20 per page", included: true },

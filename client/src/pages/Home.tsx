@@ -352,7 +352,7 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Testimonials Section */}
+      {/* Testimonials Section 
       /* <section className="py-16 bg-[rgba(249,250,251,0.5)]"> 
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto mb-16">
@@ -376,7 +376,7 @@ const Home = () => {
             ))}
           </div>
         </div>
-      </section> */
+      </section> */}
 
       {/* CTA Section */}
       <section className="py-20 bg-gradient-to-r from-primary to-primary/80 text-white">

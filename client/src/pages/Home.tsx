@@ -103,7 +103,7 @@ const Home = () => {
         { name: "Advanced search engine optimisation", included: true },
         { name: "5 page edits per month or image additions", included: true },
         {
-          name: "Subsequent year £359, includes £10 domain fee",
+          name: "Subsequent year £749, includes £10 domain fee",
           included: true,
         },
       ],

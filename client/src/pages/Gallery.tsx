@@ -96,7 +96,7 @@ const Gallery = () => {
             OUR AMAZING IDEAS
           </div>
           <h1 className="text-3xl md:text-4xl font-bold font-poppins mb-4 relative inline-block">
-            Our Concept Examples
+            Some Concept Examples
             <span className="absolute -bottom-2 left-0 w-full h-2 bg-accent/30 -rotate-1"></span>
           </h1>
           <p className="text-lg text-gray-600 mt-6 max-w-2xl mx-auto">

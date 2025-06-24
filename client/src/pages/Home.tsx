@@ -15,6 +15,13 @@ import ProcessStep from "@/components/ProcessStep";
 import TestimonialCard from "@/components/TestimonialCard";
 
 const Home = () => {
+  const scrollToServices = () => {
+    const servicesSection = document.getElementById("services");
+    if (servicesSection) {
+      servicesSection.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   const features = [
     {
       icon: LayoutDashboard,
@@ -190,16 +197,15 @@ const Home = () => {
                 Get your business online with our all-inclusive packages.
               </p>
               <div className="pt-6 flex flex-wrap gap-4">
-                <Link href="#services">
-                  <Button
-                    size="lg"
-                    className="shadow-lg shadow-primary/30 relative overflow-hidden group"
-                  >
-                    <span className="relative z-10">See Our Packages</span>
-                    <span className="absolute inset-0 bg-primary group-hover:bg-primary/90 transition-colors duration-300"></span>
-                    <span className="absolute bottom-0 left-0 w-full h-1 bg-accent"></span>
-                  </Button>
-                </Link>
+                <Button
+                  size="lg"
+                  className="shadow-lg shadow-primary/30 relative overflow-hidden group"
+                  onClick={scrollToServices}
+                >
+                  <span className="relative z-10">See Our Packages</span>
+                  <span className="absolute inset-0 bg-primary group-hover:bg-primary/90 transition-colors duration-300"></span>
+                  <span className="absolute bottom-0 left-0 w-full h-1 bg-accent"></span>
+                </Button>
                 <Link href="/contact">
                   <Button
                     size="lg"
@@ -403,11 +409,7 @@ const Home = () => {
                 size="lg"
                 variant="outline"
                 className="bg-transparent border-2 border-white text-white hover:bg-white/10 px-8 py-7"
-                onClick={() =>
-                  document
-                    .getElementById("services")
-                    ?.scrollIntoView({ behavior: "smooth" })
-                }
+                onClick={scrollToServices}
               >
                 View Our Packages
               </Button>

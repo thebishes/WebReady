@@ -91,32 +91,36 @@ const Footer = () => {
               <li>
                 <Link href="/">
                   <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
-                    <span className="w-0 h-0.5 bg-primary group-hover:w-4 transition-all mr-0 group-hover:mr-2"></span>
+                    <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Home
+                    </span>
                   </span>
                 </Link>
               </li>
               <li>
                 <Link href="/#services">
                   <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
-                    <span className="w-0 h-0.5 bg-primary group-hover:w-4 transition-all mr-0 group-hover:mr-2"></span>
+                    <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Services
+                    </span>
                   </span>
                 </Link>
               </li>
               <li>
                 <Link href="/gallery">
                   <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
-                    <span className="w-0 h-0.5 bg-primary group-hover:w-4 transition-all mr-0 group-hover:mr-2"></span>
+                    <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Portfolio
+                    </span>
                   </span>
                 </Link>
               </li>
               <li>
                 <Link href="/contact">
                   <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
-                    <span className="w-0 h-0.5 bg-primary group-hover:w-4 transition-all mr-0 group-hover:mr-2"></span>
+                    <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Contact
+                    </span>
                   </span>
                 </Link>
               </li>
@@ -132,24 +136,27 @@ const Footer = () => {
               <li>
                 <Link href="/#services">
                   <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
-                    <span className="w-0 h-0.5 bg-primary group-hover:w-4 transition-all mr-0 group-hover:mr-2"></span>
+                    <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Website Design
+                    </span>
                   </span>
                 </Link>
               </li>
               <li>
                 <Link href="/#services">
                   <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
-                    <span className="w-0 h-0.5 bg-primary group-hover:w-4 transition-all mr-0 group-hover:mr-2"></span>
+                    <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Web Hosting
+                    </span>
                   </span>
                 </Link>
               </li>
               <li>
                 <Link href="/#services">
                   <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
-                    <span className="w-0 h-0.5 bg-primary group-hover:w-4 transition-all mr-0 group-hover:mr-2"></span>
+                    <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Web Applications
+                    </span>
                   </span>
                 </Link>
               </li>

@@ -15,31 +15,31 @@ const WebApps = () => {
 
   const webAppShowcase = [
     {
-      image: "./attached_assets/media1s.png",
+      image: "/media1s.png",
       title: "Custom Dashboard Solutions",
       description: "Powerful, intuitive dashboards that give you complete control over your business data and operations.",
       features: ["Real-time Analytics", "Custom Reporting", "User Management"]
     },
     {
-      image: "./attached_assets/media2s.png",
+      image: "/media2s.png",
       title: "Business Management Systems",
       description: "Streamlined applications designed to optimize your workflow and boost productivity across all departments.",
       features: ["Process Automation", "Team Collaboration", "Performance Tracking"]
     },
     {
-      image: "/attached_assets/media3s.png",
+      image: "/media3s.png",
       title: "Data Visualization Platforms",
       description: "Transform complex data into clear, actionable insights with our bespoke visualization applications.",
       features: ["Interactive Charts", "Custom Metrics", "Export Capabilities"]
     },
     {
-      image: "/attached_assets/media4s.png",
+      image: "/media4s.png",
       title: "Client Portal Systems",
       description: "Secure, user-friendly portals that enhance client relationships and streamline communication.",
       features: ["Secure Access", "Document Sharing", "Communication Tools"]
     },
     {
-      image: "/attached_assets/media5s.png",
+      image: "/media5s.png",
       title: "E-commerce Solutions",
       description: "Comprehensive online selling platforms tailored to your unique business model and customer needs.",
       features: ["Payment Integration", "Inventory Management", "Customer Analytics"]

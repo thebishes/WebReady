@@ -210,7 +210,7 @@ const Home = () => {
                   <Button
                     size="lg"
                     variant="outline"
-                    className="border-2 border-gray-300 hover:border-primary text-dark hover:text-primary hover:bg-primary/5 transition-all duration-300"
+                    className="border-2 border-gray-300 hover:border-primary text-gray-700 hover:text-primary hover:bg-primary/5 transition-all duration-300"
                   >
                     Contact Us
                   </Button>

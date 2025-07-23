@@ -15,31 +15,31 @@ const WebApps = () => {
 
   const webAppShowcase = [
     {
-      image: "/attached_assets/media1s.png",
+      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
       title: "Custom Dashboard Solutions",
       description: "Powerful, intuitive dashboards that give you complete control over your business data and operations.",
       features: ["Real-time Analytics", "Custom Reporting", "User Management"]
     },
     {
-      image: "/attached_assets/media2s.png", 
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
       title: "Business Management Systems",
       description: "Streamlined applications designed to optimize your workflow and boost productivity across all departments.",
       features: ["Process Automation", "Team Collaboration", "Performance Tracking"]
     },
     {
-      image: "/attached_assets/media3s.png",
+      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
       title: "Data Visualization Platforms",
       description: "Transform complex data into clear, actionable insights with our bespoke visualization applications.",
       features: ["Interactive Charts", "Custom Metrics", "Export Capabilities"]
     },
     {
-      image: "/attached_assets/media4s.png",
+      image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
       title: "Client Portal Systems",
       description: "Secure, user-friendly portals that enhance client relationships and streamline communication.",
       features: ["Secure Access", "Document Sharing", "Communication Tools"]
     },
     {
-      image: "/attached_assets/media5s.png",
+      image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
       title: "E-commerce Solutions",
       description: "Comprehensive online selling platforms tailored to your unique business model and customer needs.",
       features: ["Payment Integration", "Inventory Management", "Customer Analytics"]
@@ -207,15 +207,6 @@ const WebApps = () => {
               <Link href="/contact">
                 <Button size="lg" className="px-8 py-6 shadow-lg shadow-primary/20">
                   Get Started Today
-                </Button>
-              </Link>
-              <Link href="/gallery">
-                <Button 
-                  size="lg" 
-                  variant="outline" 
-                  className="border-2 border-primary text-primary hover:bg-primary hover:text-white px-8 py-6"
-                >
-                  View More Examples
                 </Button>
               </Link>
             </div>

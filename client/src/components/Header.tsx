@@ -47,8 +47,8 @@ const Header = () => {
             <Link href="/" className="flex items-center space-x-2">
               <div className="text-primary text-2xl font-bold font-poppins flex items-center">
                 <Sparkles className="h-5 w-5 mr-1 text-accent animate-pulse" />
-                Web<span className="text-primary">Ready</span>
-                <span className="text-accent">.store</span>
+                Tailored<span className="text-accent">.</span>
+                <span className="text-primary">Website</span>
                 <Bolt className="h-5 w-5 ml-1 text-secondary" />
               </div>
             </Link>

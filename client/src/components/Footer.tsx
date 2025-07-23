@@ -39,16 +39,16 @@ const Footer = () => {
               <div className="flex items-center space-x-2">
                 <div className="text-white text-2xl font-bold font-poppins flex items-center">
                   <Sparkles className="h-5 w-5 mr-1 text-accent animate-pulse" />
-                  Web<span className="text-primary">Ready</span>
-                  <span className="text-accent">.store</span>
+                  Tailored<span className="text-accent">.</span>
+                  <span className="text-primary">Website</span>
                   <Bolt className="h-5 w-5 ml-1 text-secondary" />
                 </div>
               </div>
             </Link>
             <p className="text-gray-400 mb-6 max-w-md">
-              We create beautiful, functional websites with transparent pricing
+              We create beautiful, tailored websites with transparent pricing
               and reliable hosting. Get your business online with
-              WebReady.Store.
+              Tailored.Website.
             </p>{/*
             <div className="flex space-x-4">
               <a
@@ -167,7 +167,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center">
           <p className="text-gray-500">
-            © {new Date().getFullYear()} WebReady.Store. All rights reserved.
+            © {new Date().getFullYear()} Tailored.Website. All rights reserved.
           </p>
         </div>
       </div>

@@ -184,15 +184,15 @@ const Home = () => {
                 🚀 Launch your dream website today!
               </div>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold font-poppins leading-tight">
-                Build Your{" "}
+                Get Your{" "}
                 <span className="text-primary relative">
-                  Perfect Website
+                  Tailored Website
                   <span className="absolute -bottom-2 left-0 w-full h-2 bg-accent/30 -rotate-1"></span>
                 </span>{" "}
                 with Fixed Yearly Fees
               </h1>
               <p className="text-lg text-gray-600 max-w-2xl">
-                WebReady.Store provides professional website building and
+                Tailored.Website provides professional website building and
                 hosting services with transparent pricing and no hidden costs.
                 Get your business online with our all-inclusive packages.
               </p>
@@ -241,7 +241,7 @@ const Home = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-bold font-poppins mb-4">
-              Why Choose WebReady.Store?
+              Why Choose Tailored.Website?
             </h2>
             <p className="text-lg text-gray-600">
               We combine beautiful design with powerful functionality to create
@@ -389,7 +389,7 @@ const Home = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold font-poppins mb-4">
-              Ready to Build Your Perfect Website?
+              Ready to Get Your Tailored Website?
             </h2>
             <p className="text-xl opacity-90 mb-8">
               Get started today with our transparent, fixed-fee website

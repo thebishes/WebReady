@@ -283,6 +283,7 @@ const Contact = () => {
                               Starter plus
                             </SelectItem>
                             <SelectItem value="Power">Power Pro</SelectItem>
+                            <SelectItem value="webapp">Web Application</SelectItem>
                             <SelectItem value="custom">
                               Custom Requirements
                             </SelectItem>

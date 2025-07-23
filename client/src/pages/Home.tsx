@@ -192,9 +192,9 @@ const Home = () => {
                 with Fixed Yearly Fees
               </h1>
               <p className="text-lg text-gray-600 max-w-2xl">
-                Tailored.Website provides professional website building and
+                Tailored.Website provides professional website building, web application development, and
                 hosting services with transparent pricing and no hidden costs.
-                Get your business online with our all-inclusive packages.
+                Get your business online with our all-inclusive packages and custom web solutions.
               </p>
               <div className="pt-6 flex flex-wrap gap-4">
                 <Button
@@ -245,7 +245,7 @@ const Home = () => {
             </h2>
             <p className="text-lg text-gray-600">
               We combine beautiful design with powerful functionality to create
-              websites that work for your business.
+              websites and web applications that work for your business.
             </p>
           </div>
 
@@ -268,11 +268,11 @@ const Home = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-bold font-poppins mb-4">
-              Our Website Packages
+              Our Website & Web Application Packages
             </h2>
             <p className="text-lg text-gray-600">
               Choose the package that fits your business needs with our
-              transparent, fixed yearly pricing.
+              transparent, fixed yearly pricing. From simple websites to complex web applications.
             </p>
           </div>
 
@@ -316,14 +316,14 @@ const Home = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <span className="px-4 py-1 bg-white/10 rounded-full text-white text-sm font-medium mb-4 inline-block backdrop-blur-sm">
-              THE MAGIC PROCESS
+              OUR DEVELOPMENT PROCESS
             </span>
             <h2 className="text-3xl md:text-4xl font-bold font-poppins mb-4 relative inline-block">
-              How We Build Your Website
+              How We Build Your Website or Web Application
               <span className="absolute -bottom-2 left-0 w-full h-2 bg-accent/40 -rotate-1"></span>
             </h2>
             <p className="text-lg opacity-90 mt-6">
-              Our streamlined process ensures your website is up and running
+              Our streamlined process ensures your website or web application is up and running
               quickly with minimal effort on your part.
             </p>
           </div>

@@ -46,8 +46,8 @@ const Footer = () => {
               </div>
             </Link>
             <p className="text-gray-400 mb-6 max-w-md">
-              We create beautiful, tailored websites with transparent pricing
-              and reliable hosting. Get your business online with
+              We create beautiful, tailored websites and custom web applications with transparent pricing
+              and reliable hosting. Get your business online with powerful solutions from
               Tailored.Website.
             </p>{/*
             <div className="flex space-x-4">
@@ -149,7 +149,7 @@ const Footer = () => {
                 <Link href="/#services">
                   <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
                     <span className="w-0 h-0.5 bg-primary group-hover:w-4 transition-all mr-0 group-hover:mr-2"></span>
-                    E-commerce
+                    Web Applications
                   </span>
                 </Link>
               </li>

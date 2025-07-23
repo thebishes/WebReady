@@ -59,6 +59,13 @@ const Home = () => {
         "SSL certificates, regular backups, and security monitoring to keep your website safe and secure.",
       colorClass: "bg-accent/10",
     },
+    {
+      icon: Server,
+      title: "Web Application Development",
+      description:
+        "Custom web applications tailored to your specification and requirements.",
+      colorClass: "bg-primary/10",
+    },
   ];
 
   const pricingPlans = [

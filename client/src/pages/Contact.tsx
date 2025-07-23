@@ -155,7 +155,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-lg mb-2">
-                        Ready to get started?
+                        Ready to get your tailored website?
                       </h3>
                       <p className="text-gray-600 mb-4">
                         Our team of experts is ready to bring your vision to

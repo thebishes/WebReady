@@ -25,9 +25,9 @@ const Home = () => {
   const features = [
     {
       icon: LayoutDashboard,
-      title: "Custom Designs",
+      title: "Tailored Designs",
       description:
-        "Unique websites tailored to your brand identity and business goals with modern, responsive layouts.",
+        "Unique websites custom-built to your brand identity and business goals with modern, responsive layouts.",
       colorClass: "bg-primary/10",
     },
     {
@@ -47,7 +47,7 @@ const Home = () => {
 
     {
       icon: Zap,
-      title: "Optimized Performance",
+      title: "Performance Optimized",
       description:
         "Fast-loading websites optimized for both desktop and mobile devices, with built-in SEO features.",
       colorClass: "bg-secondary/10",
@@ -148,19 +148,19 @@ const Home = () => {
   const testimonials = [
     {
       quote:
-        "WebReady.Store transformed our online presence. The fixed yearly fee means no surprises, and the website they built perfectly represents our brand.",
+        "Tailored.Website transformed our online presence. The fixed yearly fee means no surprises, and the tailored website they built perfectly represents our brand.",
       author: "Sarah Johnson",
       role: "Founder, Urban Threads",
     },
     {
       quote:
-        "The team at WebReady.Store made the website creation process so easy. They handled everything from design to hosting, and we've seen a 40% increase in inquiries.",
+        "The team at Tailored.Website made the website creation process so easy. They handled everything from design to hosting, and we've seen a 40% increase in inquiries.",
       author: "Michael Rodriguez",
       role: "CEO, Mountain View Consulting",
     },
     {
       quote:
-        "As a small business owner, I needed a professional website without the technical headaches. WebReady.Store delivered exactly what I needed at a price I could afford.",
+        "As a small business owner, I needed a professional website without the technical headaches. Tailored.Website delivered exactly what I needed at a price I could afford.",
       author: "Jennifer Chen",
       role: "Owner, Seaside Restaurant",
     },

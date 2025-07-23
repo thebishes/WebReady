@@ -100,7 +100,7 @@ const Gallery = () => {
             <span className="absolute -bottom-2 left-0 w-full h-2 bg-accent/30 -rotate-1"></span>
           </h1>
           <p className="text-lg text-gray-600 mt-6 max-w-2xl mx-auto">
-            Take a look at some of our concept ideas to help you with your online business presence mindset.
+            Take a look at some of our tailored concept ideas to help you with your online business presence mindset.
           </p>
         </div>
 
@@ -171,10 +171,10 @@ const Gallery = () => {
           <div className="absolute -bottom-10 -left-10 w-40 h-40 bg-secondary/10 rounded-full blur-2xl"></div>
 
           <h3 className="text-2xl font-bold font-poppins mb-4">
-            Ready to create your own stunning website?
+            Ready to get your own tailored website?
           </h3>
           <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-            Contact us today to discuss your project and let us build a website
+            Contact us today to discuss your project and let us build a tailored website
             that perfectly represents your brand.
           </p>
           <Button

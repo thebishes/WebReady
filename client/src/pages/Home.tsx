@@ -389,11 +389,11 @@ const Home = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold font-poppins mb-4">
-              Ready to Get Your Tailored Website?
+              Ready to Get Your Tailored Website or Web Application?
             </h2>
             <p className="text-xl opacity-90 mb-8">
               Get started today with our transparent, fixed-fee website
-              packages.
+              packages and custom web application development services.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link href="/contact">

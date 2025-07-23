@@ -16,7 +16,7 @@ const Footer = () => {
   };
 
   return (
-    <footer className="bg-dark text-white py-12 relative overflow-hidden">
+    <footer className="bg-primary text-white py-12 relative overflow-hidden">
       {/* Decorative elements */}
       <div className="absolute top-0 left-0 w-full h-8 bg-gradient-to-b from-gray-800 to-transparent opacity-50"></div>
       <div className="absolute -bottom-20 -right-20 w-80 h-80 bg-primary/10 rounded-full blur-3xl"></div>
@@ -83,7 +83,7 @@ const Footer = () => {
           </div>
 
           <div>
-            <h3 className="text-black font-poppins mb-6 flex items-center">
+            <h3 className="text-lg font-semibold font-poppins mb-6 flex items-center">
               <Star className="h-4 w-4 mr-2 text-accent" />
               Quick Links
             </h3>

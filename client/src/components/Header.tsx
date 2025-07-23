@@ -62,7 +62,7 @@ const Header = () => {
                       className={`font-medium transition-colors relative group overflow-hidden cursor-pointer ${
                         isActive(link.path)
                           ? "text-primary"
-                          : "text-dark hover:text-primary"
+                          : "text-gray-700 hover:text-primary"
                       }`}
                     >
                       {link.name}
@@ -78,7 +78,7 @@ const Header = () => {
               variant="ghost"
               size="icon"
               onClick={toggleMobileMenu}
-              className="text-dark hover:text-primary"
+              className="text-gray-700 hover:text-primary"
             >
               {mobileMenuOpen ? (
                 <X className="h-6 w-6" />
@@ -99,7 +99,7 @@ const Header = () => {
                   className={`block py-2 font-medium cursor-pointer ${
                     isActive(link.path)
                       ? "text-primary"
-                      : "text-dark hover:text-primary"
+                      : "text-gray-700 hover:text-primary"
                   }`}
                   onClick={closeMobileMenu}
                 >

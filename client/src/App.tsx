@@ -7,6 +7,7 @@ import NotFound from "@/pages/not-found";
 import Home from "@/pages/Home";
 import Gallery from "@/pages/Gallery";
 import Contact from "@/pages/Contact";
+import WebApps from "@/pages/WebApps";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { useEffect, useState } from "react";
@@ -70,6 +71,7 @@ function Router() {
         <Switch>
           <Route path="/" component={Home} />
           <Route path="/gallery" component={Gallery} />
+          <Route path="/webapps" component={WebApps} />
           <Route path="/contact" component={Contact} />
           <Route component={NotFound} />
         </Switch>

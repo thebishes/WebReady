@@ -116,6 +116,15 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
+                <Link href="/webapps">
+                  <span className="text-gray-400 hover:text-white transition-colors inline-flex items-center group cursor-pointer">
+                    <span className="border-b border-transparent group-hover:border-white transition-colors">
+                    Web Apps
+                    </span>
+                  </span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/contact">
                   <span className="text-gray-400 hover:text-white transition-colors inline-flex items-center group cursor-pointer">
                     <span className="border-b border-transparent group-hover:border-white transition-colors">

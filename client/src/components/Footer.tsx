@@ -110,7 +110,7 @@ const Footer = () => {
                 <Link href="/gallery">
                   <span className="text-gray-400 hover:text-white transition-colors inline-flex items-center group cursor-pointer">
                     <span className="border-b border-transparent group-hover:border-white transition-colors">
-                    Portfolio
+                    Gallery
                     </span>
                   </span>
                 </Link>

@@ -15,13 +15,13 @@ const WebApps = () => {
 
   const webAppShowcase = [
     {
-      image: "/attached_assets/media1s.png",
+      image: "./attached_assets/media1s.png",
       title: "Custom Dashboard Solutions",
       description: "Powerful, intuitive dashboards that give you complete control over your business data and operations.",
       features: ["Real-time Analytics", "Custom Reporting", "User Management"]
     },
     {
-      image: "/attached_assets/media2s.png",
+      image: "./attached_assets/media2s.png",
       title: "Business Management Systems",
       description: "Streamlined applications designed to optimize your workflow and boost productivity across all departments.",
       features: ["Process Automation", "Team Collaboration", "Performance Tracking"]

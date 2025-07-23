@@ -90,7 +90,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li>
                 <Link href="/">
-                  <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
+                  <span className="text-gray-400 hover:text-white transition-colors inline-flex items-center group cursor-pointer">
                     <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Home
                     </span>
@@ -99,7 +99,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link href="/#services">
-                  <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
+                  <span className="text-gray-400 hover:text-white transition-colors inline-flex items-center group cursor-pointer">
                     <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Services
                     </span>
@@ -108,7 +108,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link href="/gallery">
-                  <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
+                  <span className="text-gray-400 hover:text-white transition-colors inline-flex items-center group cursor-pointer">
                     <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Portfolio
                     </span>
@@ -117,7 +117,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link href="/contact">
-                  <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
+                  <span className="text-gray-400 hover:text-white transition-colors inline-flex items-center group cursor-pointer">
                     <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Contact
                     </span>
@@ -135,7 +135,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li>
                 <Link href="/#services">
-                  <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
+                  <span className="text-gray-400 hover:text-white transition-colors inline-flex items-center group cursor-pointer">
                     <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Website Design
                     </span>
@@ -144,7 +144,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link href="/#services">
-                  <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
+                  <span className="text-gray-400 hover:text-white transition-colors inline-flex items-center group cursor-pointer">
                     <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Web Hosting
                     </span>
@@ -153,7 +153,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link href="/#services">
-                  <span className="text-gray-400 hover:text-primary transition-colors inline-flex items-center group cursor-pointer">
+                  <span className="text-gray-400 hover:text-white transition-colors inline-flex items-center group cursor-pointer">
                     <span className="border-b border-transparent group-hover:border-white transition-colors">
                     Web Applications
                     </span>

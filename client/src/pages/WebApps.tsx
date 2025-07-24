@@ -3,6 +3,13 @@ import { Sparkles, Code, Database, Zap, Shield, Users } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
 
+// Import images so Vite can process them properly
+import media1 from "@/assets/media1.png";
+import media2 from "@/assets/media2.png";
+import media3 from "@/assets/media3.png";
+import media4 from "@/assets/media4.png";
+import media4s from "@/assets/media4s.png";
+
 const WebApps = () => {
   const [animated, setAnimated] = useState(false);
 
@@ -15,31 +22,31 @@ const WebApps = () => {
 
   const webAppShowcase = [
     {
-      image: "/dist/assets/media1.png",
+      image: media1,
       title: "User control built in",
       description: "Empowering you to control who has access to your web application",
       features:["Team Control", "User Control"]
     },
     {
-      image: "/src/attached_assets/media2.png",
+      image: media2,
       title: "Business Management Systems",
       description: "Streamlined applications designed to optimise your workflow and boost productivity across all departments.",
       features: ["Team Collaboration", "Performance Tracking"]
     },
     {
-      image: "/src/attached_assets/media3.png",
+      image: media3,
       title: "Data Visualisation",
       description: "Transform complex data into clear, actionable insights with our bespoke visualisation applications.",
       features: ["Charts", "Custom Metrics", "Export Capabilities"]
     },
     {
-      image: "/src/attached_assets/media4.png",
+      image: media4,
       title: "Reporting",
       description: "Secure, user-friendly portals that enhance client relationships and streamline communication.",
       features: ["Realtime Metrics","Data Analysis","Filtering"]
     },
     {
-      image: "/src/attached_assets/media4s.png",
+      image: media4s,
       title: "Invoicing Solutions",
       description: "Invoice generation on the fly, no messy Word templates.",
       features: ["Invoice Generation", "Inventory Management", "Customer Analytics"]

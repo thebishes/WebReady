@@ -17,7 +17,8 @@ const WebApps = () => {
     {
       image: "/media1s.png",
       title: "User control built in",
-      description: "Empowering you to control who has access to your web application"
+      description: "Empowering you to control who has access to your web application",
+      features:
     },
     {
       image: "/media2s.png",

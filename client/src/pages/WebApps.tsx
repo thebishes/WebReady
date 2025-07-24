@@ -2,6 +2,8 @@ import { useState, useEffect } from "react";
 import { Sparkles, Code, Database, Zap, Shield, Users } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
+import media1s from './media1s.png';
+
 
 const WebApps = () => {
   const [animated, setAnimated] = useState(false);

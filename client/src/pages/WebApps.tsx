@@ -15,31 +15,31 @@ const WebApps = () => {
 
   const webAppShowcase = [
     {
-      image: "/media1s.png",
+      image: "/src/attached_assets/media1.png",
       title: "User control built in",
       description: "Empowering you to control who has access to your web application",
       features:["Team Control", "User Control"]
     },
     {
-      image: "/media2s.png",
+      image: "/src/attached_assets/media2.png",
       title: "Business Management Systems",
       description: "Streamlined applications designed to optimise your workflow and boost productivity across all departments.",
       features: ["Team Collaboration", "Performance Tracking"]
     },
     {
-      image: "/media3s.png",
+      image: "/src/attached_assets/media3.png",
       title: "Data Visualisation",
       description: "Transform complex data into clear, actionable insights with our bespoke visualisation applications.",
       features: ["Charts", "Custom Metrics", "Export Capabilities"]
     },
     {
-      image: "/media4s.png",
+      image: "/src/attached_assets/media4.png",
       title: "Reporting",
       description: "Secure, user-friendly portals that enhance client relationships and streamline communication.",
       features: ["Realtime Metrics","Data Analysis","Filtering"]
     },
     {
-      image: "/media5s.png",
+      image: "/src/attached_assets/media4s.png",
       title: "Invoicing Solutions",
       description: "Invoice generation on the fly, no messy Word templates.",
       features: ["Invoice Generation", "Inventory Management", "Customer Analytics"]

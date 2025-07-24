@@ -16,7 +16,7 @@ const WebApps = () => {
   const webAppShowcase = [
     {
       image: "/media1s.png",
-      title: "Custom Dashboard Solutions",
+      title: "Custome Web Application",
       description: "Powerful, intuitive dashboards that give you complete control over your business data and operations.",
       features: ["Real-time Analytics", "Custom Reporting", "User Management"]
     },

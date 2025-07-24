@@ -45,12 +45,7 @@ const WebApps = () => {
       description: "Secure, user-friendly portals that enhance client relationships and streamline communication.",
       features: ["Realtime Metrics","Data Analysis","Filtering"]
     },
-    {
-      image: media4s,
-      title: "Invoicing Solutions",
-      description: "Invoice generation on the fly, no messy Word templates.",
-      features: ["Invoice Generation", "Inventory Management", "Customer Analytics"]
-    }
+   
   ];
 
   const benefits = [

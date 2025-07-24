@@ -40,7 +40,7 @@ const Footer = () => {
                 <div className="text-white text-2xl font-bold font-poppins flex items-center">
                   <Sparkles className="h-5 w-5 mr-1 text-accent animate-pulse" />
                   Tailored<span className="text-accent">.</span>
-                  <span className="text-gray">Website</span>
+                  <span className="text-gray-400">Website</span>
                   <Bolt className="h-5 w-5 ml-1 text-secondary" />
                 </div>
               </div>

@@ -28,15 +28,15 @@ const WebApps = () => {
     },
     {
       image: "/media3s.png",
-      title: "Data Visualization Platforms",
+      title: "Data Visualisation",
       description: "Transform complex data into clear, actionable insights with our bespoke visualization applications.",
-      features: ["Interactive Charts", "Custom Metrics", "Export Capabilities"]
+      features: ["Charts", "Custom Metrics", "Export Capabilities"]
     },
     {
       image: "/media4s.png",
-      title: "Client Portal Systems",
+      title: "Reporting",
       description: "Secure, user-friendly portals that enhance client relationships and streamline communication.",
-      features: ["Secure Access", "Document Sharing", "Communication Tools"]
+      features: ["Realtime Metrics","Data Analysis","Filtering"]
     },
     {
       image: "/media5s.png",

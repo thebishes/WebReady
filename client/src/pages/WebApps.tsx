@@ -24,7 +24,7 @@ const WebApps = () => {
       image: "/media2s.png",
       title: "Business Management Systems",
       description: "Streamlined applications designed to optimize your workflow and boost productivity across all departments.",
-      features: ["Process Automation", "Team Collaboration", "Performance Tracking"]
+      features: ["Team Collaboration", "Performance Tracking"]
     },
     {
       image: "/media3s.png",

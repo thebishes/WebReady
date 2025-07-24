@@ -59,8 +59,8 @@ const WebApps = () => {
     },
     {
       icon: Shield,
-      title: "Enterprise Security",
-      description: "Bank-level security protocols protect your sensitive business data and user information."
+      title: "Embeded Security",
+      description: "Embeded security protocols protect your sensitive business data and user information."
     },
     {
       icon: Zap,

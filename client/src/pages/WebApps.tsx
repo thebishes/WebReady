@@ -2,8 +2,6 @@ import { useState, useEffect } from "react";
 import { Sparkles, Code, Database, Zap, Shield, Users } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import media1s from './media1s.png';
-
 
 const WebApps = () => {
   const [animated, setAnimated] = useState(false);
@@ -17,8 +15,8 @@ const WebApps = () => {
 
   const webAppShowcase = [
     {
-      image: "src/public/media1s.png",
-      title: "Custome Web Application",
+      image: "/media1s.png",
+      title: "Custom Dashboard Solutions",
       description: "Powerful, intuitive dashboards that give you complete control over your business data and operations.",
       features: ["Real-time Analytics", "Custom Reporting", "User Management"]
     },
@@ -161,11 +159,6 @@ const WebApps = () => {
                     alt={app.title}
                     className="w-full h-64 object-cover transition-transform duration-700 group-hover:scale-110"
                     loading="lazy"
-                    onError={(e) => {
-                      console.log('Image failed to load:', app.image);
-                      e.currentTarget.style.display = 'none';
-                    }}
-                    onLoad={() => console.log('Image loaded successfully:', app.image)}
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
                 </div>

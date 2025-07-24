@@ -29,7 +29,7 @@ const WebApps = () => {
     {
       image: "/media3s.png",
       title: "Data Visualisation",
-      description: "Transform complex data into clear, actionable insights with our bespoke visualization applications.",
+      description: "Transform complex data into clear, actionable insights with our bespoke visualisation applications.",
       features: ["Charts", "Custom Metrics", "Export Capabilities"]
     },
     {
@@ -41,7 +41,7 @@ const WebApps = () => {
     {
       image: "/media5s.png",
       title: "Invoicing Solutions",
-      description: "Comprehensive online selling platforms tailored to your unique business model and customer needs.",
+      description: "Invoice generation on the fly, no messy Word templates.",
       features: ["Invoice Generation", "Inventory Management", "Customer Analytics"]
     }
   ];

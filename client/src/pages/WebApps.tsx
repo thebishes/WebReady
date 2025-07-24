@@ -65,7 +65,7 @@ const WebApps = () => {
     {
       icon: Zap,
       title: "Lightning Fast",
-      description: "Optimized performance ensures your applications run smoothly under any load."
+      description: "Optimised performance ensures your applications run smoothly under any load."
     }
   ];
 

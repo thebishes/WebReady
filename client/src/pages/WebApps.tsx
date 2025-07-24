@@ -40,9 +40,9 @@ const WebApps = () => {
     },
     {
       image: "/media5s.png",
-      title: "E-commerce Solutions",
+      title: "Invoicing Solutions",
       description: "Comprehensive online selling platforms tailored to your unique business model and customer needs.",
-      features: ["Payment Integration", "Inventory Management", "Customer Analytics"]
+      features: ["Invoice Generation", "Inventory Management", "Customer Analytics"]
     }
   ];
 
